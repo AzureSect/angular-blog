@@ -1,2 +1,0 @@
-export default `*{margin:0;padding:0;box-sizing:border-box;background-color:#111;color:#fff;font-family:Segoe UI,Tahoma,Geneva,Verdana,sans-serif}a{text-decoration:none}
-`;
