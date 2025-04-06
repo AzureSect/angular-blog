@@ -1,16 +1,17 @@
 <div class="container__big-card">
   <div class="big-card__photo">
-    <img src="https://assets.gamearena.gg/wp-content/uploads/2024/03/11123945/Digimon-Con-24-event-Reveals-e1710109847555.jpg" alt="" height="250px" srcset="">
+    <img [src]="photoCover" alt="" height="250px">
   </div>
   <div class="big-card__title">
-    <h1><a href="#"> Saiu Primeira página de artigo</a> </h1>
+    <h1><a href="#">{{ cardTitle }}</a> </h1>
   </div>
   <div class="big-card__description">
     <p>
       <a href="#">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non malesuada est. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce varius, erat vel rhoncus tempus, lacus tortor aliquam metus, in ultrices risus erat vitae nunc. In at lectus consequat, faucibus libero et, interdum nun
+        {{ cardDescription}}
       </a>
     </p>
   </div>
+
 
 </div>
