@@ -14,5 +14,4 @@ export default `<!doctype html>
   <app-root></app-root>
 <script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-UM3OCM5E.js" type="module"></script></body>
 
-</html>
-`;
+</html>`;
