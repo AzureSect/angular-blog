@@ -1,0 +1,9 @@
+{
+  "routes": {
+    "/angular-blog": {},
+    "/angular-blog/content/1": {},
+    "/angular-blog/content/2": {},
+    "/angular-blog/content/3": {},
+    "/angular-blog/content/4": {}
+  }
+}
